@@ -2,3 +2,6 @@ nc-venvec
 __pycache
 data
 logs
+build
+dist
+nyseconverter.egg-info
